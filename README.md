@@ -252,7 +252,7 @@ vercel --prod
 
 <div align="center">
 
-ساخته شده با ❤️ توسط **[حمید رضا تقی پور](https://linkedin.com/in/hamidrezataghipour)**
+ساخته شده با ❤️ توسط **[حمید رضا تقی پور](https://hamidseo.ir/)**
 [![GitHub](https://img.shields.io/badge/GitHub-hamidrezataghipour-181717?style=flat-square&logo=github)](https://github.com/hamidrezataghipour)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hamidrezataghipour-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/hamidrezataghipour)
 
