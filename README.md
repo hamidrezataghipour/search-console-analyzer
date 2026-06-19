@@ -13,9 +13,7 @@
 
 **یک داشبورد حرفه‌ای و هوشمند برای تحلیل داده‌های Google Search Console**
 
-[🚀 مشاهده دمو](https://your-demo-link.vercel.app) &nbsp;·&nbsp;
-[🐛 گزارش باگ](https://github.com/hamidrezataghipour/search-console-analyzer/issues) &nbsp;·&nbsp;
-[💡 پیشنهاد قابلیت](https://github.com/hamidrezataghipour/search-console-analyzer/issues)
+[🚀 مشاهده داشبورد](https://your-demo-link.vercel.app)
 
 <br/>
 
@@ -30,7 +28,6 @@
 | قابلیت | توضیح |
 |---|---|
 | 📁 **آپلود فایل** | پشتیبانی از فرمت‌های CSV و Excel (خروجی سرچ کنسول) |
-| 📈 **نمودارهای تعاملی** | ۴ نمودار Clicks، Impressions، CTR و Position |
 | ⚡ **Quick Win URLs** | شناسایی خودکار URLهایی با رتبه ۴ تا ۱۰ برای بهینه‌سازی فوری |
 | ⚠️ **هشدار CTR پایین** | تشخیص صفحاتی با رتبه خوب اما نرخ کلیک پایین |
 | 🤖 **تحلیل هوشمند AI** | گزارش متنی جامع با استریم زنده کلمه به کلمه |
@@ -256,7 +253,6 @@ vercel --prod
 <div align="center">
 
 ساخته شده با ❤️ توسط **[حمید رضا تقی پور](https://linkedin.com/in/hamidrezataghipour)**
-وب سایت کن : https://hamidseo.ir/
 [![GitHub](https://img.shields.io/badge/GitHub-hamidrezataghipour-181717?style=flat-square&logo=github)](https://github.com/hamidrezataghipour)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hamidrezataghipour-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/hamidrezataghipour)
 
