@@ -19,7 +19,7 @@
 
 <br/>
 
-![Dashboard Preview](https://via.placeholder.com/900x500/0A0F1E/3B82F6?text=Search+Console+Analyzer+Dashboard)
+![Upload Screen](assets/screenshots/upload-screen.jpg)
 
 </div>
 
@@ -45,13 +45,13 @@
 <div align="center">
 
 ### صفحه آپلود فایل
-![Upload Screen](https://via.placeholder.com/800x400/111827/3B82F6?text=File+Upload+Screen)
+![Upload Screen](assets/screenshots/upload-screen.jpg)
 
 ### داشبورد اصلی
-![Dashboard Screen](https://via.placeholder.com/800x400/0A0F1E/8B5CF6?text=Main+Dashboard)
+![Dashboard Screen](assets/screenshots/dashboard-screen.jpg)
 
 ### تحلیل هوشمند
-![AI Analysis Screen](https://via.placeholder.com/800x400/0D1117/10B981?text=AI+Analysis+Stream)
+![AI Analysis Screen](assets/screenshots/ai-analysis-screen.jpg)
 
 </div>
 
@@ -245,17 +245,6 @@ vercel --prod
 
 ---
 
-## 🤝 مشارکت
-
-هرگونه مشارکت، گزارش باگ یا پیشنهاد قابلیت جدید歡迎 است!
-
-```bash
-# Fork کن → Clone کن → Branch بساز → PR بفرست
-git checkout -b feature/your-feature-name
-git commit -m "feat: add your feature"
-git push origin feature/your-feature-name
-```
-
 ---
 
 ## 📄 لایسنس
@@ -267,7 +256,7 @@ git push origin feature/your-feature-name
 <div align="center">
 
 ساخته شده با ❤️ توسط **[حمید رضا تقی پور](https://linkedin.com/in/hamidrezataghipour)**
-
+وب سایت کن : https://hamidseo.ir/
 [![GitHub](https://img.shields.io/badge/GitHub-hamidrezataghipour-181717?style=flat-square&logo=github)](https://github.com/hamidrezataghipour)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hamidrezataghipour-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/hamidrezataghipour)
 
