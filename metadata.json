@@ -1,0 +1,6 @@
+{
+  "name": "Search Console Analysis Dashboard",
+  "description": "An interactive SEO dashboard to upload Google Search Console exports (CSV/Excel), perform depth analysis (quick wins, CTR warnings), stream AI analysis via OpenRouter (Gemma 4), and compile standalone downloadable HTML reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
