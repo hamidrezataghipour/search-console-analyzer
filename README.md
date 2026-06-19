@@ -13,7 +13,7 @@
 
 **یک داشبورد حرفه‌ای و هوشمند برای تحلیل داده‌های Google Search Console**
 
-[🚀 مشاهده داشبورد](https://your-demo-link.vercel.app)
+[🚀 مشاهده داشبورد](https://gsc.hamidseo.ir/)
 
 <br/>
 
